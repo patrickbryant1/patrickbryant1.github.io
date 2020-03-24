@@ -11,8 +11,9 @@ email: patrick.bryant@scilifelab.se
 description: > # this means to ignore newlines until "baseurl:"
   Code for various applied deep learning projects in bioinformatics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/patrickbryant1/patrickbryant1.github.io/poole/" # the base hostname & protocol for your site
+url: "https://github.com/patrickbryant1/patrickbryant1.github.io" # the base hostname & protocol for your site
 github_username:  patrickbryant1
-theme: jekyll-theme-cayman
+remot_theme: mmistakes/minimal-mistakes 
 # Build settings
 markdown: kramdown
+gems: [jekyll-gist]
