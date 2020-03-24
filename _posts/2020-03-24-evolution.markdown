@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "evolution"
-date:   2020-03-24 10:12:01 +0100
+title:  "Evolution"
+date:   2020-03-24 10:39:01 +0100
 categories: jekyll update
 ---
 Link to github repository containing code for decomposing the relationship between changes in protein domain sequence and structure using machine learning.
 
-evolution
-[evolution]:https://github.com/patrickbryant1/evolution
+[evolution]
 
+
+
+[evolution]:https://github.com/patrickbryant1/evolution

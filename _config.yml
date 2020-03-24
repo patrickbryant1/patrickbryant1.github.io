@@ -9,11 +9,10 @@
 title: Patrick Bryant
 email: patrick.bryant@scilifelab.se
 description: > # this means to ignore newlines until "baseurl:"
-  Code for various pplied deep learning projects in bioinformatics.
+  Code for various applied deep learning projects in bioinformatics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
 github_username:  patrickbryant1
-theme: jekyll-theme-cayman(base)
+theme: jekyll-theme-cayman
 # Build settings
 markdown: kramdown
