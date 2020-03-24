@@ -17,4 +17,4 @@ remot_theme: mmistakes/minimal-mistakes
 # Build settings
 markdown: kramdown
 gems: [jekyll-gist]
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
