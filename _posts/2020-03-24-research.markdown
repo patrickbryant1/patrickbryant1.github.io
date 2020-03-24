@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Research"
+date:   2020-03-24 10:52:01 +0100
+categories: jekyll update
+---
+My scientific research and associated publications.
+
+Cancer research:
+
+[code] for analysis of NGS data.
+Publications:
+
+[Code]:https://github.com/patrickbryant1/CMM
