@@ -16,4 +16,4 @@ github_username:  patrickbryant1
 remot_theme: mmistakes/minimal-mistakes 
 # Build settings
 markdown: kramdown
-remote_theme: benbalter/retlab
+remote_theme: https://github.com/jglovier/jekyll-new
