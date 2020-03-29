@@ -17,3 +17,5 @@ remot_theme: mmistakes/minimal-mistakes
 # Build settings
 markdown: kramdown
 remote_theme: https://github.com/jglovier/jekyll-new
+
+theme: jekyll-theme-cayman
