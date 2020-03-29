@@ -6,9 +6,8 @@ categories: jekyll update
 ---
 My scientific research and associated publications.
 
-Cancer research:
+Cancer research: [code] for analysis of NGS data.
 
-[code] for analysis of NGS data.
-Publications:
+Publications: 
 
 [Code]:https://github.com/patrickbryant1/CMM
