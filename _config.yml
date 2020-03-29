@@ -19,3 +19,5 @@ plugins:
   - jekyll-include-cache
 # Build settings
 remote_theme: "ecds/digitaledition-jekylltheme "
+
+
