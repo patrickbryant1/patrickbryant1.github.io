@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 Link to [github repository] containing code for decomposing the relationship between changes in protein domain sequence and structure using machine learning.
 
-![useful image]({{site.url}}/assets/mountains.jpg)
+
+
+![mountains](/patrickbryant1.github.io/assets/mountains.jpg)
 
 [github repository]:https://github.com/patrickbryant1/evolution

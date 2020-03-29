@@ -255,6 +255,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-remote-theme
   minimal-mistakes-jekyll
+  nokogiri
 
 BUNDLED WITH
    2.1.4
