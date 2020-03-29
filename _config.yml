@@ -14,6 +14,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/patrickbryant1/patrickbryant1.github.io" # the base hostname & protocol for your site
 github_username:  patrickbryant1
 remot_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
 # Build settings
 markdown: kramdown
 remote_theme: benbalter/retlab
