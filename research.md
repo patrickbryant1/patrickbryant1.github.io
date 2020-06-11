@@ -20,6 +20,9 @@ Estimating the impact of mobility patterns on COVID-19 infection rates in 11 Eur
 
 -----------------------------------------------------------------------------------------------
 # Protein Evolution
+[Decomposing Structural Response Due to Sequence Changes in Protein Domains with Machine Learning]
+
+[Decomposing Structural Response Due to Sequence Changes in Protein Domains with Machine Learning]:https://www.sciencedirect.com/science/article/pii/S0022283620303703?via%3Dihub
 Link to [github repository] containing code for decomposing the relationship between changes in protein domain sequence and structure using machine learning.
 
 
