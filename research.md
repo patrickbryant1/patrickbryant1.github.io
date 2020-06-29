@@ -5,7 +5,7 @@ title: "Research"
 
 This page contains information about my scientific research.
 
-My reserach regards elucidating information hidden in biological data using statistical methods, machine learning and deep learning.
+My research regards elucidating information hidden in biological data using statistical methods, machine learning and deep learning.
 
 -----------------------------------------------------------------------------------------------
 # COVID-19
