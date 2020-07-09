@@ -12,18 +12,19 @@ My research regards elucidating information hidden in biological data using stat
 ![covid19_image](/patrickbryant1.github.io/assets/Coronavirus-CDC.jpg)
 
 
-# Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.
-[Preprint] and [github repository]
+# [Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.]
+[Code: Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries]
 ![covid19_image](/patrickbryant1.github.io/assets/europe_forecast.png)
 
-[Preprint]:https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v2
-[github repository]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility
+[Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.]:https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v2
 
-# The effect of opening up the US on COVID-19 spread.
-[Preprint] and [github repository]
+[Code: Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility
 
-[Preprint]:https://www.medrxiv.org/content/10.1101/2020.07.03.20145649v1.full.pdf+html
-[github repository]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility/dev/US
+# [The effect of opening up the US on COVID-19 spread.]
+[Code: The effect of opening up the US on COVID-19 spread.]
+
+[The effect of opening up the US on COVID-19 spread.]:https://www.medrxiv.org/content/10.1101/2020.07.03.20145649v1.full.pdf+html
+[Code: The effect of opening up the US on COVID-19 spread.]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility/dev/US
 ![covid19_image](/patrickbryant1.github.io/assets/selected_us_states.png)
 
 -----------------------------------------------------------------------------------------------
@@ -31,32 +32,32 @@ My research regards elucidating information hidden in biological data using stat
 [Decomposing Structural Response Due to Sequence Changes in Protein Domains with Machine Learning]
 
 [Decomposing Structural Response Due to Sequence Changes in Protein Domains with Machine Learning]:https://www.sciencedirect.com/science/article/pii/S0022283620303703?via%3Dihub
-Link to [github repository] containing code for decomposing the relationship between changes in protein domain sequence and structure using machine learning.
+[Code: Decomposing the relationship between changes in protein domain sequence and structure using machine learning.]
 
 
 ![evolution_image](/patrickbryant1.github.io/assets/GraphicalAbstract.svg)
 
-[github repository]:https://github.com/ElofssonLab/evolutionary_rates
+[Code: Decomposing the relationship between changes in protein domain sequence and structure using machine learning.]:https://github.com/ElofssonLab/evolutionary_rates
 
 -----------------------------------------------------------------------------------------------
 
 # Cancer research
 
-[Code] for analysis of NGS data.
+[Code for analysis of Next Generation Sequencing data.]
 
 
 Publications:
 
-[1]. Holst, Susanna von, Xiang Jiao, Wen Liu, Vinaykumar Kontham, Jessada Thutkawkorapin, Jenny Ringdahl, [Patrick Bryant], and Annika Lindblom. 2019. “Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.
+[Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]
 
 
-[2]. Jiao, Xiang, Wen Liu, Hovsep Mahdessian, [Patrick Bryant], Jenny Ringdahl, Maria Timofeeva, Susan M. Farrington, Malcolm Dunlop, and Annika Lindblom. 2018. “Recurrent, Low-Frequency Coding Variants Contributing to Colorectal Cancer in the Swedish Population.” PloS One 13 (3): e0193547.
+[Recurrent, Low-Frequency Coding Variants Contributing to Colorectal Cancer in the Swedish Population. PloS One 13 (3): e0193547.]
 
 
 ![fam_tree](/patrickbryant1.github.io/assets/fam_tree.png)
 
-[Code]:https://github.com/patrickbryant1/CMM
+[Code for analysis of Next Generation Sequencing data.]:https://github.com/patrickbryant1/CMM
 
-[1]:https://www.nature.com/articles/s41431-019-0388-3
+[Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]:https://www.nature.com/articles/s41431-019-0388-3
 
-[2]:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193547
+[Recurrent, Low-Frequency Coding Variants Contributing to Colorectal Cancer in the Swedish Population. PloS One 13 (3): e0193547.]:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193547
