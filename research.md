@@ -8,7 +8,7 @@ This page contains information about my scientific research.
 My research regards elucidating information hidden in biological data using statistical methods, machine learning and deep learning.
 
 -----------------------------------------------------------------------------------------------
-# COVID-19 (SARS-CoV-2)
+## COVID-19 (SARS-CoV-2)
 ![covid19_image](/patrickbryant1.github.io/assets/Coronavirus-CDC.jpg)
 
 
