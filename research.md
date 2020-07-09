@@ -8,15 +8,23 @@ This page contains information about my scientific research.
 My research regards elucidating information hidden in biological data using statistical methods, machine learning and deep learning.
 
 -----------------------------------------------------------------------------------------------
-# COVID-19
+# COVID-19 (SARS-CoV-2)
 ![covid19_image](/patrickbryant1.github.io/assets/Coronavirus-CDC.jpg)
 
-Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.
+
+# Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.
 [Preprint] and [github repository]
+![covid19_image](/patrickbryant1.github.io/assets/europe_forecast.png)
 
 [Preprint]:https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v2
-[github repository]:https://github.com/patrickbryant1/COVID19.github.io
+[github repository]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility
 
+# The effect of opening up the US on COVID-19 spread.
+[Preprint] and [github repository]
+
+[Preprint]:https://www.medrxiv.org/content/10.1101/2020.07.03.20145649v1.full.pdf+html
+[github repository]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility/dev/US
+![covid19_image](/patrickbryant1.github.io/assets/selected_us_states.png)
 
 -----------------------------------------------------------------------------------------------
 # Protein Evolution
