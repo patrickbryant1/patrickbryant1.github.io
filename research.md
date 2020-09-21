@@ -16,7 +16,7 @@ My research regards elucidating information hidden in biological data using stat
 [Code: Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries]
 ![covid19_image](/patrickbryant1.github.io/assets/europe_forecast.png)
 
-[Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.]:https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v2
+[Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.]:https://peerj.com/articles/9879/
 
 [Code: Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility
 
