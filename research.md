@@ -8,6 +8,17 @@ This page contains information about my scientific research.
 My research regards elucidating information hidden in biological data using statistical methods, machine learning and deep learning.
 
 -----------------------------------------------------------------------------------------------
+## Epigenetics and ageing
+
+# [The relationship between ageing and changes in the human blood and brain methylomes]
+[Code: The relationship between ageing and changes in the human blood and brain methylomes]
+
+[The relationship between ageing and changes in the human blood and brain methylomes]:https://www.biorxiv.org/content/10.1101/2021.01.26.428239v1
+[Code: The relationship between ageing and changes in the human blood and brain methylomes]:https://github.com/patrickbryant1/ageing_of_blood_and_brain
+
+![epi](/patrickbryant1.github.io/assets/cerebellum_methylation.png)
+
+-----------------------------------------------------------------------------------------------
 ## COVID-19 (SARS-CoV-2)
 ![covid19_image](/patrickbryant1.github.io/assets/Coronavirus-CDC.jpg)
 
