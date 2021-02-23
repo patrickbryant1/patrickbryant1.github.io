@@ -27,7 +27,7 @@ My research regards elucidating information hidden in biological data using stat
 [Code: Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries]
 ![covid19_image](/patrickbryant1.github.io/assets/europe_forecast.png)
 
-[Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.]:https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v2
+[Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.]:https://peerj.com/articles/9879/
 
 [Code: Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility
 
@@ -37,6 +37,13 @@ My research regards elucidating information hidden in biological data using stat
 [The effect of opening up the US on COVID-19 spread.]:https://www.medrxiv.org/content/10.1101/2020.07.03.20145649v1.full.pdf+html
 [Code: The effect of opening up the US on COVID-19 spread.]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility/dev/US
 ![covid19_image](/patrickbryant1.github.io/assets/selected_us_states.png)
+
+# [The limits of estimating COVID-19 intervention effects using Bayesian models.]
+[Code: The limits of estimating COVID-19 intervention effects using Bayesian models.]
+
+[The limits of estimating COVID-19 intervention effects using Bayesian models.]:https://www.medrxiv.org/content/10.1101/2020.08.14.20175240v1.full.pdf+html
+[Code: The limits of estimating COVID-19 intervention effects using Bayesian models.]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/ICL_critique
+![covid19_image](/patrickbryant1.github.io/assets/Figure1_ICL.png)
 
 -----------------------------------------------------------------------------------------------
 # Protein Evolution
