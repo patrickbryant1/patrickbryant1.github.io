@@ -3,61 +3,39 @@ layout: page
 title: "Research"
 ---
 
-This page contains information about my scientific research.
+My research is about finding information hidden in biological data using statistical methods, machine learning and deep learning.
+<br>
 
-My research regards elucidating information hidden in biological data using statistical methods, machine learning and deep learning.
-
------------------------------------------------------------------------------------------------
-## Epigenetics and ageing
-
-# [The relationship between ageing and changes in the human blood and brain methylomes]
-[Code: The relationship between ageing and changes in the human blood and brain methylomes]
-
-[The relationship between ageing and changes in the human blood and brain methylomes]:https://www.biorxiv.org/content/10.1101/2021.01.26.428239v1
-[Code: The relationship between ageing and changes in the human blood and brain methylomes]:https://github.com/patrickbryant1/ageing_of_blood_and_brain
-
-![epi](/patrickbryant1.github.io/assets/cerebellum_methylation.png)
-
------------------------------------------------------------------------------------------------
-## COVID-19 (SARS-CoV-2)
-![covid19_image](/patrickbryant1.github.io/assets/Coronavirus-CDC.jpg)
+<br>
+# Epigenetics and ageing
 
 
-# [Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.]
-[Code: Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries]
-![covid19_image](/patrickbryant1.github.io/assets/europe_forecast.png)
+<a href="https://www.biorxiv.org/content/10.1101/2021.01.26.428239v1">Bryant P, Elofsson A. 2021. The relationship between ageing and changes in the human blood and brain methylomes (preprint). bioRxiv </a>
 
-[Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries.]:https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v2
 
-[Code: Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility
+<img src="/patrickbryant1.github.io/assets/cerebellum_methylation.png" width="50%" height="50%"  />
 
-# [The effect of opening up the US on COVID-19 spread.]
-[Code: The effect of opening up the US on COVID-19 spread.]
+<br>
 
-[The effect of opening up the US on COVID-19 spread.]:https://www.medrxiv.org/content/10.1101/2020.07.03.20145649v1.full.pdf+html
-[Code: The effect of opening up the US on COVID-19 spread.]:https://github.com/patrickbryant1/COVID19.github.io/tree/master/simulations/mobility/dev/US
-![covid19_image](/patrickbryant1.github.io/assets/selected_us_states.png)
+# COVID-19 (SARS-CoV-2)
+<img src="/patrickbryant1.github.io/assets/Coronavirus-CDC.jpg" width="50%" height="50%" />
 
------------------------------------------------------------------------------------------------
+<a href="https://peerj.com/articles/9879/">Bryant P, Elofsson A. 2020. Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries. PeerJ 8:e9879 https://doi.org/10.7717/peerj.9879</a>
+
+<a href="https://www.medrxiv.org/content/10.1101/2020.07.03.20145649v1.full.pdf+html">Bryant P, Elofsson A. 2020. The effect of opening up the US on COVID-19 spread (preprint). medRxiv</a>
+
+<a href="https://www.medrxiv.org/content/10.1101/2020.08.14.20175240v1.full.pdf+html">Bryant P, Elofsson A. 2020. The limits of estimating COVID-19 intervention effects using Bayesian models (preprint). medRxiv</a>
+
+<br>
 # Protein Evolution
-[Decomposing Structural Response Due to Sequence Changes in Protein Domains with Machine Learning]
 
-[Decomposing Structural Response Due to Sequence Changes in Protein Domains with Machine Learning]:https://www.sciencedirect.com/science/article/pii/S0022283620303703?via%3Dihub
-[Code: Decomposing the relationship between changes in protein domain sequence and structure using machine learning.]
+<a href="https://www.sciencedirect.com/science/article/pii/S0022283620303703?via%3Dihub">Bryant P, Elofsson A. 2020. Decomposing Structural Response Due to Sequence Changes in Protein Domains with Machine Learning. Journal of Molecular Biology, Volume 432, Issue 16 https://doi.org/10.1016/j.jmb.2020.05.021 </a>
 
+<img src="/patrickbryant1.github.io/assets/GraphicalAbstract.svg" width="75%" height="75%" />
 
-![evolution_image](/patrickbryant1.github.io/assets/GraphicalAbstract.svg)
-
-[Code: Decomposing the relationship between changes in protein domain sequence and structure using machine learning.]:https://github.com/ElofssonLab/evolutionary_rates
-
------------------------------------------------------------------------------------------------
-
+<br>
 # Cancer research
 
-[Code for analysis of Next Generation Sequencing data.]
-
-
-Publications:
 
 [Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]
 
@@ -65,7 +43,11 @@ Publications:
 [Recurrent, Low-Frequency Coding Variants Contributing to Colorectal Cancer in the Swedish Population. PloS One 13 (3): e0193547.]
 
 
-![fam_tree](/patrickbryant1.github.io/assets/fam_tree.png)
+<img src="/patrickbryant1.github.io/assets/fam_tree.png" width="75%" height="75%" />
+
+[Code for analysis of Next Generation Sequencing data.]
+
+
 
 [Code for analysis of Next Generation Sequencing data.]:https://github.com/patrickbryant1/CMM
 
