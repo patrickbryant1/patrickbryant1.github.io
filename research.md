@@ -13,12 +13,12 @@ My research is about finding information hidden in biological data using statist
 <a href="https://www.biorxiv.org/content/10.1101/2021.01.26.428239v1">Bryant P, Elofsson A. 2021. The relationship between ageing and changes in the human blood and brain methylomes (preprint). bioRxiv </a>
 
 
-<img src="/patrickbryant1.github.io/assets/cerebellum_methylation.png" width="50%" height="50%"  />
+<img src="./assets/cerebellum_methylation.png" width="50%" height="50%"  />
 
 <br>
 
 # COVID-19 (SARS-CoV-2)
-<img src="/patrickbryant1.github.io/assets/Coronavirus-CDC.jpg" width="50%" height="50%" />
+<img src="./assets/Coronavirus-CDC.jpg" width="50%" height="50%" />
 
 <a href="https://peerj.com/articles/9879/">Bryant P, Elofsson A. 2020. Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries. PeerJ 8:e9879 https://doi.org/10.7717/peerj.9879</a>
 
@@ -31,7 +31,7 @@ My research is about finding information hidden in biological data using statist
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0022283620303703?via%3Dihub">Bryant P, Elofsson A. 2020. Decomposing Structural Response Due to Sequence Changes in Protein Domains with Machine Learning. Journal of Molecular Biology, Volume 432, Issue 16 https://doi.org/10.1016/j.jmb.2020.05.021 </a>
 
-<img src="/patrickbryant1.github.io/assets/GraphicalAbstract.svg" width="75%" height="75%" />
+<img src="./assets/GraphicalAbstract.svg" width="75%" height="75%" />
 
 <br>
 # Cancer research
@@ -43,7 +43,7 @@ My research is about finding information hidden in biological data using statist
 [Recurrent, Low-Frequency Coding Variants Contributing to Colorectal Cancer in the Swedish Population. PloS One 13 (3): e0193547.]
 
 
-<img src="/patrickbryant1.github.io/assets/fam_tree.png" width="75%" height="75%" />
+<img src="./assets/fam_tree.png" width="75%" height="75%" />
 
 [Code for analysis of Next Generation Sequencing data.]
 
