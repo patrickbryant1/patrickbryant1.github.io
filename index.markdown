@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="./assets/mountains-clahe_pat_1.svg" >

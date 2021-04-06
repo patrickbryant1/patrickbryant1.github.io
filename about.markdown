@@ -1,18 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
+<img src="./assets/portrait.jpeg" >
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a PhD student in bioinformatics at Stockholm University and Science for Life Laboratory.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I utilize large scale computational approaches and statistical methods, such as deep learning and MCMC simulation to investigate a variety of biological phenomena.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Checkout my [research], [github] or [previous experience].
 
-
-[jekyll-organization]: https://github.com/jekyll
+[research]:https://patrickbryant1.github.io/patrickbryant1.github.io/research.html
+[github]:https://github.com/patrickbryant1
+[previous experience]:https://www.linkedin.com/in/patrick-bryant-ab427b13a/
