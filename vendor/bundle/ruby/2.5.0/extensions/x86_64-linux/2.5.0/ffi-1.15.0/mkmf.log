@@ -2,7 +2,7 @@
 package configuration for libffi is not found
 have_header: checking for ffi.h... -------------------- no
 
-"gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-pRq5qf/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector -rdynamic -Wl,-export-dynamic     -lruby-2.5  -lpthread -lgmp -ldl -lcrypt -lm   -lc"
+"gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-1uaIGE/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector -rdynamic -Wl,-export-dynamic     -lruby-2.5  -lpthread -lgmp -ldl -lcrypt -lm   -lc"
 checked program was:
 /* begin */
 1: #include "ruby.h"
@@ -13,7 +13,7 @@ checked program was:
 6: }
 /* end */
 
-"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-pRq5qf/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC  conftest.c -o conftest.i"
+"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-1uaIGE/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC  conftest.c -o conftest.i"
 conftest.c:3:10: fatal error: ffi.h: No such file or directory
  #include <ffi.h>
           ^~~~~~~
@@ -29,7 +29,7 @@ checked program was:
 
 find_header: checking for ffi.h in /usr/local/include,/usr/include/ffi,/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi,/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi... -------------------- no
 
-"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-pRq5qf/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC  conftest.c -o conftest.i"
+"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-1uaIGE/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC  conftest.c -o conftest.i"
 conftest.c:3:10: fatal error: ffi.h: No such file or directory
  #include <ffi.h>
           ^~~~~~~
@@ -41,7 +41,7 @@ checked program was:
 3: #include <ffi.h>
 /* end */
 
-"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-pRq5qf/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/local/include conftest.c -o conftest.i"
+"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-1uaIGE/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/local/include conftest.c -o conftest.i"
 conftest.c:3:10: fatal error: ffi.h: No such file or directory
  #include <ffi.h>
           ^~~~~~~
@@ -53,7 +53,7 @@ checked program was:
 3: #include <ffi.h>
 /* end */
 
-"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-pRq5qf/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/ffi conftest.c -o conftest.i"
+"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-1uaIGE/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/ffi conftest.c -o conftest.i"
 conftest.c:3:10: fatal error: ffi.h: No such file or directory
  #include <ffi.h>
           ^~~~~~~
@@ -65,7 +65,7 @@ checked program was:
 3: #include <ffi.h>
 /* end */
 
-"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-pRq5qf/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi conftest.c -o conftest.i"
+"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-1uaIGE/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi conftest.c -o conftest.i"
 conftest.c:3:10: fatal error: ffi.h: No such file or directory
  #include <ffi.h>
           ^~~~~~~
@@ -77,7 +77,7 @@ checked program was:
 3: #include <ffi.h>
 /* end */
 
-"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-pRq5qf/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi conftest.c -o conftest.i"
+"gcc -E -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-1uaIGE/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi conftest.c -o conftest.i"
 conftest.c:3:10: fatal error: ffi.h: No such file or directory
  #include <ffi.h>
           ^~~~~~~
@@ -93,7 +93,7 @@ checked program was:
 
 block in append_ldflags: checking for whether -Wl,--exclude-libs,ALL is accepted as LDFLAGS... -------------------- yes
 
-"gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-pRq5qf/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector -rdynamic -Wl,-export-dynamic     -lruby-2.5 -Wl,--exclude-libs,ALL -lpthread -lgmp -ldl -lcrypt -lm   -lc"
+"gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-2.5.0 -I/usr/include/ruby-2.5.0/ruby/backward -I/usr/include/ruby-2.5.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -fdebug-prefix-map=/build/ruby2.5-1uaIGE/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector -rdynamic -Wl,-export-dynamic     -lruby-2.5 -Wl,--exclude-libs,ALL -lpthread -lgmp -ldl -lcrypt -lm   -lc"
 checked program was:
 /* begin */
 1: #include "ruby.h"
