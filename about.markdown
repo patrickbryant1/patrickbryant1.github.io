@@ -10,6 +10,6 @@ I utilize large scale computational approaches and statistical methods, such as 
 
 Checkout my [research], [github] or [previous experience].
 
-[research]:https://patrickbryant1.github.io/patrickbryant1.github.io/research.html
+[research]:https://patrickbryant1.github.io/research.html
 [github]:https://github.com/patrickbryant1
 [previous experience]:https://www.linkedin.com/in/patrick-bryant-ab427b13a/
