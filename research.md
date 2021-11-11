@@ -57,7 +57,7 @@ Bryant P, Elofsson A. Studying signal peptides with attention neural networks in
 <img src="./assets/GraphicalAbstract.svg" width="75%" height="75%" />
 
 <br>
-# Cancer research
+# Familial Cancer
 
 
 [Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]
