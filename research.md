@@ -8,6 +8,10 @@ My research is about finding information hidden in biological data using statist
 
 <br>
 
+
+
+<br>
+
 # Protein complex prediction
 
 <a href="https://www.biorxiv.org/content/10.1101/2021.09.15.460468v2"> Bryant P, Pozzati G, Elofsson A. Improved prediction of protein-protein interactions using AlphaFold2 and extended multiple-sequence alignments. bioRxiv. 2021. p. 2021.09.15.460468. doi:10.1101/2021.09.15.460468
@@ -18,6 +22,14 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 <a href="https://www.biorxiv.org/content/10.1101/2021.09.26.461876v1"> Akdel M, Pires DEV, Pardo EP, Jänes J, Zalevsky AO, Mészáros B, Bryant P et al. A structural biology community assessment of AlphaFold2 applications. bioRxiv. 2021. p. 2021.09.26.461876. doi:10.1101/2021.09.26.461876
 
 <img src="./assets/trna.gif" width="50%" height="50%"  />
+
+<br>
+
+
+# Signal peptides
+
+Bryant P, Elofsson A. Studying signal peptides with attention neural networks informs cleavage site predictions. MLSB Workshop at NeurIPS 2021
+<img src="./assets/SP.png" width="50%" height="50%"  />
 
 <br>
 # Epigenetics and ageing
@@ -34,8 +46,6 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 <img src="./assets/Coronavirus-CDC.jpg" width="50%" height="50%" />
 
 <a href="https://peerj.com/articles/9879/">Bryant P, Elofsson A. 2020. Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries. PeerJ 8:e9879 https://doi.org/10.7717/peerj.9879</a>
-
-<a href="https://www.medrxiv.org/content/10.1101/2020.07.03.20145649v1.full.pdf+html">Bryant P, Elofsson A. 2020. The effect of opening up the US on COVID-19 spread (preprint). medRxiv</a>
 
 <a href="https://www.medrxiv.org/content/10.1101/2020.08.14.20175240v1.full.pdf+html">Bryant P, Elofsson A. 2020. The limits of estimating COVID-19 intervention effects using Bayesian models (preprint). medRxiv</a>
 
