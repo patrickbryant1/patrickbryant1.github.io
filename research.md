@@ -8,10 +8,14 @@ My research is about finding information hidden in biological data using statist
 
 <br>
 
-#Protein complex prediction
+# Protein complex prediction
 
 <a href="https://www.biorxiv.org/content/10.1101/2021.09.15.460468v2"> Bryant P, Pozzati G, Elofsson A. Improved prediction of protein-protein interactions using AlphaFold2 and extended multiple-sequence alignments. bioRxiv. 2021. p. 2021.09.15.460468. doi:10.1101/2021.09.15.460468
 
+<a href="https://www.biorxiv.org/content/10.1101/2021.11.08.467664v1 "> David F Burke, Patrick Bryant et al. Towards a structurally resolved human protein
+interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/2021.11.08.467664.
+
+<a href="https://www.biorxiv.org/content/10.1101/2021.09.26.461876v1"> Akdel M, Pires DEV, Pardo EP, Jänes J, Zalevsky AO, Mészáros B, Bryant P et al. A structural biology community assessment of AlphaFold2 applications. bioRxiv. 2021. p. 2021.09.26.461876. doi:10.1101/2021.09.26.461876
 
 <img src="./assets/trna.gif" width="50%" height="50%"  />
 
