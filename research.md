@@ -3,8 +3,13 @@ layout: page
 title: "Research"
 ---
 
-My research is about finding information hidden in biological data using statistical methods, machine learning and deep learning.
+My research is about finding information hidden in biological data using statistical methods and deep learning.
 <br>
+
+<br>
+
+#Protein complex prediction
+<a href="https://www.biorxiv.org/content/10.1101/2021.09.15.460468v2"> Bryant P, Pozzati G, Elofsson A. Improved prediction of protein-protein interactions using AlphaFold2 and extended multiple-sequence alignments. bioRxiv. 2021. p. 2021.09.15.460468. doi:10.1101/2021.09.15.460468
 
 <br>
 # Epigenetics and ageing
