@@ -3,7 +3,8 @@ layout: page
 title: "Research"
 ---
 
-My research is about finding information hidden in biological data using statistical methods and deep learning.
+My research is about creating useful methods for biological applications and finding hidden relationships in biological data using statistical methods and deep learning.
+
 <br>
 
 <br>
@@ -28,7 +29,7 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 
 # Signal peptides
 
-Bryant P, Elofsson A. Studying signal peptides with attention neural networks informs cleavage site predictions. MLSB Workshop at NeurIPS 2021
+<a href="https://www.mlsb.io/papers_2021/MLSB2021_Studying_signal_peptides_with.pdf"> Bryant P, Elofsson A. Studying signal peptides with attention neural networks informs cleavage site predictions. MLSB Workshop at NeurIPS 2021
 
 
 <img src="./assets/SP.png" width="50%" height="50%"  />
