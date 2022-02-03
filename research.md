@@ -38,7 +38,7 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 # Epigenetics and ageing
 
 
-<a href="https://www.biorxiv.org/content/10.1101/2021.01.26.428239v1">Bryant P, Elofsson A. 2021. The relationship between ageing and changes in the human blood and brain methylomes (preprint). bioRxiv </a>
+<a href="https://academic.oup.com/nargab/article/4/1/lqac001/6520111?login=true">Bryant P, Elofsson A. 2021. The relationship between ageing and changes in the human blood and brain methylomes. NAR Genomics and Bioinformatics, Volume 4, Issue 1, March 2022 </a>
 
 
 <img src="./assets/cerebellum_methylation.png" width="50%" height="50%"  />
