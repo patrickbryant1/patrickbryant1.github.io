@@ -77,7 +77,7 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 
 [Code for analysis of Next Generation Sequencing data.]:https://github.com/patrickbryant1/CMM
 
-[A Swedish Genome-Wide Haplotype Association Analysis Identifies a Novel Breast Cancer Susceptibility Locus in 8p21.2 and Characterizes Three Loci on Chromosomes 10, 11 and 16]:(https://www.mdpi.com/2072-6694/14/5/1206)
+[A Swedish Genome-Wide Haplotype Association Analysis Identifies a Novel Breast Cancer Susceptibility Locus in 8p21.2 and Characterizes Three Loci on Chromosomes 10, 11 and 16]:https://www.mdpi.com/2072-6694/14/5/1206
 
 [Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]:https://www.nature.com/articles/s41431-019-0388-3
 
