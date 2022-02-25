@@ -62,9 +62,9 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 <br>
 # Familial Cancer
 
-
 [Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]
 
+[Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]
 
 [Recurrent, Low-Frequency Coding Variants Contributing to Colorectal Cancer in the Swedish Population. PloS One 13 (3): e0193547.]
 
