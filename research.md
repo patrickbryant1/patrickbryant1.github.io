@@ -62,7 +62,7 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 <br>
 # Familial Cancer
 
-[Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]
+[A Swedish Genome-Wide Haplotype Association Analysis Identifies a Novel Breast Cancer Susceptibility Locus in 8p21.2 and Characterizes Three Loci on Chromosomes 10, 11 and 16]
 
 [Linkage Analysis Revealed Risk Loci on 6p21 and 18p11.2-q11.2 in Familial Colon and Rectal Cancer, Respectively.” European Journal of Human Genetics: EJHG 27 (8): 1286–95.]
 
