@@ -15,7 +15,12 @@ My research is about creating useful methods for biological applications and fin
 
 # Protein complex prediction
 
-<a href="https://www.biorxiv.org/content/10.1101/2021.09.15.460468v2"> Bryant P, Pozzati G, Elofsson A. Improved prediction of protein-protein interactions using AlphaFold2 and extended multiple-sequence alignments. bioRxiv. 2021. p. 2021.09.15.460468. doi:10.1101/2021.09.15.460468
+
+<a href="https://www.biorxiv.org/content/10.1101/2022.03.12.484089v1"> Bryant P, Pozzati G, Zhu W, Shenoy A, Kundrotas P, Elofsson A. Predicting the structure of large protein complexes using AlphaFold and sequential assembly. bioRxiv. 2022. p. 2022.03.12.484089. doi:10.1101/2022.03.12.484089
+
+<img src="./assets/1IWA.gif" width="50%" height="50%"  />
+
+<a href="https://www.nature.com/articles/s41467-022-28865-w"> Bryant P, Pozzati G, Elofsson A. Improved prediction of protein-protein interactions using AlphaFold2. bioRxiv. 2021. p. 2021.09.15.460468. doi:10.1101/2021.09.15.460468
 
 <a href="https://www.biorxiv.org/content/10.1101/2021.11.08.467664v1 "> David F Burke, Patrick Bryant et al. Towards a structurally resolved human protein
 interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/2021.11.08.467664.
