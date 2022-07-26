@@ -20,6 +20,8 @@ My research is about creating useful methods for biological applications and fin
 
 <img src="./assets/EvoBind.png" width="50%" height="50%"  />
 
+<br>
+
 # Protein complex prediction
 
 
