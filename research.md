@@ -24,8 +24,7 @@ My research is about creating useful methods for biological applications and fin
 
 # Protein complex prediction
 
-
-<a href="https://www.biorxiv.org/content/10.1101/2022.03.12.484089v1"> Bryant P, Pozzati G, Zhu W, Shenoy A, Kundrotas P, Elofsson A. Predicting the structure of large protein complexes using AlphaFold and sequential assembly. bioRxiv. 2022. p. 2022.03.12.484089. doi:10.1101/2022.03.12.484089
+<a href="https://www.nature.com/articles/s41467-022-33729-4"> Bryant, P., Pozzati, G., Zhu, W. et al. Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search. Nat Commun 13, 6028 (2022).
 
 <img src="./assets/1IWA.gif" width="50%" height="50%"  />
 
