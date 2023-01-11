@@ -33,7 +33,7 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 # Protein design
 
 
-<a href="https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1.full.pdf+html"> Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
+<a href="https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1.full.pdf"> Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
 
 <img src="./assets/EvoBind.png" width="50%" height="50%"  />
 
