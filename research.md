@@ -16,7 +16,7 @@ My research is about creating useful methods for biological applications and fin
 # Protein design
 
 
-<a href="https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1"> Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
+<a href="https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1.full.pdf+html"> Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
 
 <img src="./assets/EvoBind.png" width="50%" height="50%"  />
 
