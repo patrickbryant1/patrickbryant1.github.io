@@ -13,15 +13,6 @@ My research is about creating useful methods for biological applications and fin
 
 <br>
 
-# Protein design
-
-
-<a href="https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1.full.pdf+html"> Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
-
-<img src="./assets/EvoBind.png" width="50%" height="50%"  />
-
-<br>
-
 # Protein complex prediction
 
 <a href="https://www.nature.com/articles/s41467-022-33729-4"> Bryant, P., Pozzati, G., Zhu, W. et al. Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search. Nat Commun 13, 6028 (2022).
@@ -39,6 +30,14 @@ interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/
 
 <br>
 
+# Protein design
+
+
+<a href="https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1.full.pdf+html"> Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
+
+<img src="./assets/EvoBind.png" width="50%" height="50%"  />
+
+<br>
 
 # Signal peptides
 
