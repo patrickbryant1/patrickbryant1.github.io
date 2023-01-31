@@ -21,8 +21,7 @@ My research is about creating useful methods for biological applications and fin
 
 <a href="https://www.nature.com/articles/s41467-022-28865-w"> Bryant P, Pozzati G, Elofsson A. Improved prediction of protein-protein interactions using AlphaFold2. Nat Commun. 2022;13: 1–11.
 
-<a href="https://www.biorxiv.org/content/10.1101/2021.11.08.467664v1 "> David F Burke, Patrick Bryant et al. Towards a structurally resolved human protein
-interaction network. bioRxiv. 2021. p. 2021.11.09. doi: https://doi.org/10.1101/2021.11.08.467664.
+<a href="https://www.nature.com/articles/s41594-022-00910-8 "> Burke, D.F., Bryant, P., Barrio-Hernandez, I. et al. Towards a structurally resolved human protein interaction network. Nat Struct Mol Biol (2023). https://doi.org/10.1038/s41594-022-00910-8
 
 <a href="https://www.nature.com/articles/s41594-022-00849-w"> Akdel M, Pires DEV, Pardo EP, Jänes J, Zalevsky AO, Mészáros B, Bryant P et al. A structural biology community assessment of AlphaFold2 applications. Nat Struct Mol Biol 29, 1056–1067 (2022). https://doi.org/10.1038/s41594-022-00849-w
 
