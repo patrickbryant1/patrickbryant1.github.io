@@ -13,7 +13,15 @@ My research is about creating useful methods for biological applications and fin
 
 <br>
 
+# Structure prediction of alternative protein conformations
+
+<a href="https://www.biorxiv.org/content/10.1101/2023.09.25.559256v1"> Bryant P., Noé F. Structure prediction of alternative protein conformations. Preprint (2023)
+
+<br>
+
 # Protein complex prediction
+
+<a href="https://www.biorxiv.org/content/10.1101/2023.07.04.547638v1"> Bryant P., Noé F. Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile. Preprint (2023)
 
 <a href="https://www.nature.com/articles/s41467-022-33729-4"> Bryant, P., Pozzati, G., Zhu, W. et al. Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search. Nat Commun 13, 6028 (2022).
 
